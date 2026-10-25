@@ -9,8 +9,8 @@ Where function meets form.
 </h6>
 
 <p align="center">
-  <a href="https://github.com/oxidescheme/vim/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/vim?colorA=161616&colorB=2e2e2e&style=for-the-badge"></a>
-  <a href="https://github.com/oxidescheme/vim/issues"><img src="https://img.shields.io/github/issues/oxidescheme/vim?colorA=161616&colorB=2e2e2e&style=for-the-badge"></a>
+  <a href="https://github.com/oxidescheme/vim/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/vim?style=for-the-badge&color=2e2e2e&labelColor=161616"></a>
+  <a href="https://github.com/oxidescheme/vim/issues"><img src="https://img.shields.io/github/issues/oxidescheme/vim?style=for-the-badge&color=2e2e2e&labelColor=161616"></a>
   <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=2e2e2e&labelColor=161616&logo=discord&logoColor=cecece"></a>
 </p>
 
